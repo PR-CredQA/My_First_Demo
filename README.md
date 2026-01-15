@@ -1,4 +1,4 @@
 # My_First_Demo
-Auther-PR
+Author-PR
 <br>
 This is my first project on git
